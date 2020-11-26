@@ -7,4 +7,4 @@ Se encuentra un ejecutable dentro del juego
 
 #ScreenShots
 
-![Alt text](AnimalsWorld-master/ScreenShots/1.PNG?raw=true "Optional Title"
+![Alt text](https://github.com/JoelArdon/Mundo-de-los-Animales/blob/main/AnimalsWorld-master/ScreenShots/1.PNG?raw=true)
