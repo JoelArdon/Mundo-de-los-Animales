@@ -1,0 +1,6 @@
+﻿  Arbol.cpp
+  Main.cpp
+  Generando código...
+C:\Users\Luver\Downloads\Github\animales word\AnimalsWorld-master\El mundo de los animales\Arbol.cpp(172): warning C4715: 'Arbol::buscaNodo': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Luver\Downloads\Github\animales word\AnimalsWorld-master\El mundo de los animales\Arbol.cpp(153): warning C4715: 'Arbol::ObtieneNodoNivel': no todas las rutas de acceso de control devuelven un valor
+  El mundo de los animales.vcxproj -> C:\Users\Luver\Downloads\Github\animales word\AnimalsWorld-master\x64\Debug\El mundo de los animales.exe
